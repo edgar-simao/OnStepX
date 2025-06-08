@@ -35,3 +35,10 @@
                                           //              ***     WEAR AND DAMAGE THE MICROCONTROLLER NV SUBSYSTEM !!!        ***
 
 // ---------------------------------------------------------------------------------------------------------------------------------
+
+// ADDITIONAL SETTINGS ------------------------------------------------------------------------------------------------------------
+// #define AP_PASSWORD        "edgaroscopio" // "onstep", Wifi Access Point password.                                            Adjust
+// #define AP_IP_ADDR       {192,168,30,256} // {192,168,30,256}, Wifi Access Point IP Address.                                  Adjust
+// #define AP_GW_ADDR       {192,168,30,256} // {192,168,30,256}, Wifi Access Point GATEWAY Address.                             Adjust
+
+#define SERIAL_BT_PASSKEY             "7802" // "1234", Bluetooth four digit passkey                                             Adjust
